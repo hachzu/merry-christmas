@@ -148,4 +148,3 @@ submitBtn.addEventListener('click', () => {
   const pageName = enteredName.toLowerCase();
   window.location.href = `gifts/${pageName}.html`;
 });
-
